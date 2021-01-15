@@ -282,6 +282,14 @@ export const AmazonSg: Store = {
 		{
 			brand: 'gigabyte',
 			cartUrl:
+				'https://www.amazon.sg/gp/aws/cart/add.html?ASIN.1=B08KGZVKXM&Quantity.1=1',
+			model: 'vision oc',
+			series: '3080',
+			url: 'https://www.amazon.sg/dp/B08KGZVKXM'
+		},
+		{
+			brand: 'gigabyte',
+			cartUrl:
 				'https://www.amazon.sg/gp/aws/cart/add.html?ASIN.1=B08M4YFNX2&Quantity.1=1',
 			model: 'gaming oc',
 			series: '3070',
